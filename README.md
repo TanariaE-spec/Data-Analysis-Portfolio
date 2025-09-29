@@ -1,4 +1,4 @@
-# Data Analysis Projects
+# Data Analysis Portfolio
 Projects that showcase my data analytical skills.
 
 # Data Cleaning
